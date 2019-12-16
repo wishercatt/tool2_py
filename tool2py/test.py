@@ -94,7 +94,7 @@ def main():
 
     result_compliance = []
     result_uncompliance = []
-    verify(rule_pi, result_pi, result_compliance, result_uncompliance)
+    verify(rule_pi, true_pi, result_compliance, result_uncompliance)
 
     output = open("./output/淘宝output.txt", 'w', encoding='gbk')
 

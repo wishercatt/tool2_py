@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1086138c-3627-4b5a-8952-8c39acf042e2" name="Default Changelist" comment="" />
+    <list default="true" id="1086138c-3627-4b5a-8952-8c39acf042e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/淘宝ouput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UxzqveUQrD8ek1lNL4qQFxLXcp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +31,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -76,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576313228650</updated>
       <workItem from="1576313231693" duration="12684000" />
+      <workItem from="1576460359042" duration="239000" />
     </task>
     <servers />
   </component>
@@ -83,60 +95,72 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="241" key="GridCell.Tab.0.bottom" timestamp="1576327683038">
+    <state width="1237" height="241" key="GridCell.Tab.0.bottom" timestamp="1576460598211">
       <screen x="-506" y="1080" width="1280" height="700" />
     </state>
-    <state width="1237" height="241" key="GridCell.Tab.0.bottom/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576327683038" />
+    <state width="1237" height="241" key="GridCell.Tab.0.bottom/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576460598211" />
     <state width="1493" height="258" key="GridCell.Tab.0.bottom/-506.1080.1280.700/0.0.1536.824@0.0.1536.824" timestamp="1576315732769" />
-    <state width="1237" height="241" key="GridCell.Tab.0.center" timestamp="1576327683037">
+    <state width="1237" height="241" key="GridCell.Tab.0.center" timestamp="1576460598211">
       <screen x="-506" y="1080" width="1280" height="700" />
     </state>
-    <state width="1237" height="241" key="GridCell.Tab.0.center/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576327683037" />
+    <state width="1237" height="241" key="GridCell.Tab.0.center/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576460598211" />
     <state width="1493" height="258" key="GridCell.Tab.0.center/-506.1080.1280.700/0.0.1536.824@0.0.1536.824" timestamp="1576315732767" />
-    <state width="1237" height="241" key="GridCell.Tab.0.left" timestamp="1576327683037">
+    <state width="1237" height="241" key="GridCell.Tab.0.left" timestamp="1576460598211">
       <screen x="-506" y="1080" width="1280" height="700" />
     </state>
-    <state width="1237" height="241" key="GridCell.Tab.0.left/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576327683037" />
+    <state width="1237" height="241" key="GridCell.Tab.0.left/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576460598211" />
     <state width="1493" height="258" key="GridCell.Tab.0.left/-506.1080.1280.700/0.0.1536.824@0.0.1536.824" timestamp="1576315732766" />
-    <state width="1237" height="241" key="GridCell.Tab.0.right" timestamp="1576327683038">
+    <state width="1237" height="241" key="GridCell.Tab.0.right" timestamp="1576460598211">
       <screen x="-506" y="1080" width="1280" height="700" />
     </state>
-    <state width="1237" height="241" key="GridCell.Tab.0.right/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576327683038" />
+    <state width="1237" height="241" key="GridCell.Tab.0.right/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576460598211" />
     <state width="1493" height="258" key="GridCell.Tab.0.right/-506.1080.1280.700/0.0.1536.824@0.0.1536.824" timestamp="1576315732768" />
-    <state width="1237" height="241" key="GridCell.Tab.1.bottom" timestamp="1576327683039">
+    <state width="1237" height="241" key="GridCell.Tab.1.bottom" timestamp="1576460598212">
       <screen x="-506" y="1080" width="1280" height="700" />
     </state>
-    <state width="1237" height="241" key="GridCell.Tab.1.bottom/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576327683039" />
+    <state width="1237" height="241" key="GridCell.Tab.1.bottom/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576460598212" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom/-506.1080.1280.700/0.0.1536.824@0.0.1536.824" timestamp="1576314013692" />
-    <state width="1237" height="241" key="GridCell.Tab.1.center" timestamp="1576327683038">
+    <state width="1237" height="241" key="GridCell.Tab.1.center" timestamp="1576460598211">
       <screen x="-506" y="1080" width="1280" height="700" />
     </state>
-    <state width="1237" height="241" key="GridCell.Tab.1.center/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576327683038" />
+    <state width="1237" height="241" key="GridCell.Tab.1.center/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576460598211" />
     <state width="1493" height="261" key="GridCell.Tab.1.center/-506.1080.1280.700/0.0.1536.824@0.0.1536.824" timestamp="1576314013692" />
-    <state width="1237" height="241" key="GridCell.Tab.1.left" timestamp="1576327683038">
+    <state width="1237" height="241" key="GridCell.Tab.1.left" timestamp="1576460598211">
       <screen x="-506" y="1080" width="1280" height="700" />
     </state>
-    <state width="1237" height="241" key="GridCell.Tab.1.left/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576327683038" />
+    <state width="1237" height="241" key="GridCell.Tab.1.left/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576460598211" />
     <state width="1493" height="261" key="GridCell.Tab.1.left/-506.1080.1280.700/0.0.1536.824@0.0.1536.824" timestamp="1576314013692" />
-    <state width="1237" height="241" key="GridCell.Tab.1.right" timestamp="1576327683038">
+    <state width="1237" height="241" key="GridCell.Tab.1.right" timestamp="1576460598211">
       <screen x="-506" y="1080" width="1280" height="700" />
     </state>
-    <state width="1237" height="241" key="GridCell.Tab.1.right/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576327683038" />
+    <state width="1237" height="241" key="GridCell.Tab.1.right/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576460598211" />
     <state width="1493" height="261" key="GridCell.Tab.1.right/-506.1080.1280.700/0.0.1536.824@0.0.1536.824" timestamp="1576314013692" />
     <state width="646" height="346" key="XDebugger.FullValuePopup" timestamp="1576316163665">
       <screen x="-506" y="1080" width="1280" height="700" />
     </state>
     <state width="646" height="346" key="XDebugger.FullValuePopup/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576316163665" />
-    <state x="461" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1576313232613">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="-122" y="1283" key="com.intellij.ide.util.TipDialog" timestamp="1576460360946">
+      <screen x="-506" y="1080" width="1280" height="700" />
     </state>
+    <state x="-122" y="1283" key="com.intellij.ide.util.TipDialog/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576460360946" />
     <state x="461" y="239" key="com.intellij.ide.util.TipDialog/-506.1080.1280.700/0.0.1536.824@0.0.1536.824" timestamp="1576313232613" />
     <state x="-203" y="1101" width="672" height="678" key="search.everywhere.popup" timestamp="1576327567051">
       <screen x="-506" y="1080" width="1280" height="700" />
     </state>
     <state x="-203" y="1101" width="672" height="678" key="search.everywhere.popup/-506.1080.1280.700/0.0.1536.824@-506.1080.1280.700" timestamp="1576327567051" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tool2py$test.coverage" NAME="test Coverage Results" MODIFIED="1576327629888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tool2py$test.coverage" NAME="test Coverage Results" MODIFIED="1576460501874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
